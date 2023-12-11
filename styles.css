@@ -1,0 +1,32 @@
+
+body {
+    background-color: #11255A
+        }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  h1{
+      font-weight: 500;
+      color: #FD7900;
+   }
+  
+  h2{
+      font-size: 30px;
+      color: #FD7900;
+  }
+  
+  h3{
+      font-size: 20px;
+   }
+  
+   .btn-custom{
+      background-color: #FD7900
+   }
+  
+  p{
+      font-weight: 500;
+  }
+  
+  
